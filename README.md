@@ -1,0 +1,2 @@
+# GlobalCloud
+EntregaGlobalCloud
